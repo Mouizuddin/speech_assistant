@@ -1,5 +1,3 @@
-# speech_assistant
-Speech Assistant Python 
 # Python Speech Assistant
 
 
